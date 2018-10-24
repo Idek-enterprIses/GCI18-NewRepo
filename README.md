@@ -1,5 +1,7 @@
-How to use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+How to use-
+
+Simply look at this file and boom you just used your eyes. Another way to use this document could be to fill up your hard drive with millions of these and then boom, full hard drive: worth it no?
 
 How to contribute
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+This still needs to be implemented but it isn't in the works yet.
